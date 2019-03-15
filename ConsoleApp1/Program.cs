@@ -16,7 +16,7 @@ namespace ConsoleApp1
             string mode = "ascii";
 
             string[] arguments;
-            LexisSFTP.Class1 lx = new LexisSFTP.Class1();
+            LexisSFTP.Class1 lx = new Class1();
 
             foreach (string element in Environment.GetCommandLineArgs())
             {
