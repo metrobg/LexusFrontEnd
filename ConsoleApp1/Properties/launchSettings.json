@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "remotefile=xip localfile=c:\\GMS\\Mellon\\xip.txt user=ggraves password=0ct@n3 mode=ascii host=joker.domanet.com method=get"
+    }
+  }
+}
